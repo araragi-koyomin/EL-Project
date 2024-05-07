@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917d45f4-d51b-48e1-abd0-12bbac3c971a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/tabbar/classify/classify.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/tabbar/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/pages/tabbar/person/person.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/static/classify.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/static/homepage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/static/person.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/uni.promisify.adaptor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/uni.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/apk/__UNI__00862FB_cm.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/apk/apkurl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/apk/cmManifestCache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/certdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappautomator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniapperror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/pages/index/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/cache/wgt/__UNI__00862FB/uni-app-view.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/.nvue/app.css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/.nvue/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappautomator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniapperror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/pages/index/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/dist/build/app-plus/uni-app-view.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/unpackage/release/apk/__UNI__00862FB__20240407194648.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2g3B4VWPMFEGJzUlVJRVs1pYG7I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917d45f4-d51b-48e1-abd0-12bbac3c971a" name="Changes" comment="" />
+      <created>1714916192205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714916192205</updated>
+    </task>
+    <servers />
+  </component>
+</project>
